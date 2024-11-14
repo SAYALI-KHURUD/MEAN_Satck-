@@ -1,0 +1,14 @@
+.my-component {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    color: darkblue;
+  }
+  
+  p {
+    color: darkgreen;
+  }
+  
